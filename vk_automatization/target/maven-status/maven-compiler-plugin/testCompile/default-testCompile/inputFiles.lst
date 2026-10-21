@@ -1,0 +1,6 @@
+/home/georgevs/vk_auto/vk_auto/vk_automatization/src/test/java/com/automatization/tests/Config.java
+/home/georgevs/vk_auto/vk_auto/vk_automatization/src/test/java/com/automatization/tests/api/Endpoints.java
+/home/georgevs/vk_auto/vk_auto/vk_automatization/src/test/java/com/automatization/tests/data/TestData.java
+/home/georgevs/vk_auto/vk_auto/vk_automatization/src/test/java/com/automatization/tests/generated/GetFilmTest.java
+/home/georgevs/vk_auto/vk_auto/vk_automatization/src/test/java/com/automatization/tests/generated/ListFilmsTest.java
+/home/georgevs/vk_auto/vk_auto/vk_automatization/src/test/java/com/automatization/tests/rest/SwapiTest.java

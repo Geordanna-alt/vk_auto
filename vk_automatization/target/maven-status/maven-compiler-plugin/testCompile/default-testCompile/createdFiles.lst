@@ -1,0 +1,6 @@
+com/automatization/tests/data/TestData.class
+com/automatization/tests/rest/SwapiTest.class
+com/automatization/tests/Config.class
+com/automatization/tests/api/Endpoints.class
+com/automatization/tests/generated/ListFilmsTest.class
+com/automatization/tests/generated/GetFilmTest.class
